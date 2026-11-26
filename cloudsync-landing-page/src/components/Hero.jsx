@@ -9,10 +9,10 @@ function Hero() {
           ✨ The Future of Cloud Storage
         </div>
 
-        <h1>
-          Store Smarter.
-          <br />
-          <span>Work Faster.</span>
+       <h1>
+          Store Everything.
+         <br />
+         <span>Work Smarter.</span>
         </h1>
 
         <p>

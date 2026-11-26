@@ -10,10 +10,10 @@ function Hero() {
         </div>
 
         <h1>
-          Store Smarter.
+          Secure Your Files.
           <br />
-          <span>Work Faster.</span>
-        </h1>
+          <span>Anywhere, Anytime.</span>
+         </h1>
 
         <p>
           Secure your files, collaborate with your team,

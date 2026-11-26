@@ -8,12 +8,13 @@ function Hero() {
         <div className="hero-badge">
           ✨ The Future of Cloud Storage
         </div>
-
-       <h1>
-          Store Everything.
-         <br />
-         <span>Work Smarter.</span>
+        
+        <h1>
+          Store Smarter.
+           <br />
+           <span>Anywhere, Anytime.</span>
         </h1>
+
 
         <p>
           Secure your files, collaborate with your team,
